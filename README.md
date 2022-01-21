@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi! I'm @zschumacher (Zach Schumacher) 👋
 
-<!--
-**zschumacher/zschumacher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer based in New York, New York 🏙️.
 
-Here are some ideas to get you started:
+I have worked in a variety of industries, but my speciality is building data intensive systems, usually using Python!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📫 How to reach me:
+* [My website: zschumacher.github.io](zschumacher.github.io)
+* [Email: zschu15@gmail.com](mailto:zschu15@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/zachschumacher/)
+
+
