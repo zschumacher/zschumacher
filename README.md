@@ -6,7 +6,7 @@ I have worked in a variety of industries, but my speciality is building data int
 
 
 📫 How to reach me:
-* [My website: zschumacher.github.io](zschumacher.github.io)
+* [My website: zschumacher.github.io](https://zschumacher.github.io)
 * [Email: zschu15@gmail.com](mailto:zschu15@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/zachschumacher/)
 
