@@ -1,6 +1,6 @@
 ### Hi! I'm @zschumacher (Zach Schumacher) 👋
 
-I'm a software developer based in New York, New York 🏙️.
+I'm a software developer based in St. Louis, Missouri.
 
 I have worked in a variety of industries, but my speciality is building data intensive systems, usually using Python!
 
